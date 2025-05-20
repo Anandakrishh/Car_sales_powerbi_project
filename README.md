@@ -7,8 +7,8 @@
 
 **Objective **:The 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈 dashboard helps to transforms raw sales data into actionable insights, helping businesses to optimize sales, profit, customer satisfaction and other trends to enhance decision-making and drive overall business growth.
 
-![image alt](https://github.com/Anandakrishh/dashboard_image/blob/1a9beb00e47a1960fa47b4cde7a85c99fc88d165/Screenshot%202025-05-20%20205211.png)
-![image alt](https://github.com/Anandakrishh/dashboard_image/blob/1a9beb00e47a1960fa47b4cde7a85c99fc88d165/Screenshot%202025-05-20%20205227.png)
+![image alt](https://github.com/Anandakrishh/dashboard_image/blob/2799fb7eb118426774373f830f3ab401b7d9c418/Screenshot%202025-05-20%20210330.png)
+![image alt](https://github.com/Anandakrishh/dashboard_image/blob/2799fb7eb118426774373f830f3ab401b7d9c418/Screenshot%202025-05-20%20210343.png)
 
 ## Objectives
 
