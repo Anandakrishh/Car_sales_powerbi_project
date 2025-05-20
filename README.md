@@ -5,7 +5,10 @@
 **Project Title**: Car Sales Analysis 
 **Level**:intermediate
 
-the 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈 dashboard helps to transforms raw sales data into actionable insights, helping businesses to optimize sales, profit, customer satisfaction and other trends to enhance decision-making and drive overall business growth.
+**Objective **:The 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈 dashboard helps to transforms raw sales data into actionable insights, helping businesses to optimize sales, profit, customer satisfaction and other trends to enhance decision-making and drive overall business growth.
+
+![image alt](https://github.com/Anandakrishh/dashboard_image/blob/1a9beb00e47a1960fa47b4cde7a85c99fc88d165/Screenshot%202025-05-20%20205211.png)
+![image alt](https://github.com/Anandakrishh/dashboard_image/blob/1a9beb00e47a1960fa47b4cde7a85c99fc88d165/Screenshot%202025-05-20%20205227.png)
 
 ## Objectives
 
